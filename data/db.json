@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Json Server ",
+      "body": "each top level property is seen as a resource and json server creates endpoints for us Lorem ipsum dolor sit amet consectetur adipiscing elit. Donec blandit suscipit accumsan. Curabitur ut libero euismod, hendrerit sapien non, tempus risus. Nunc at dui eget purus consequat euismod ac non sapien. Etiam sit amet nunc lobortis, dignissim eros quis iaculis massa. Mauris ac euismod mauris, in porttitor metus. Maecenas sed augue ligula. Nunc dictum nisi ac quam euismod eleifend. Nam condimentum orci sed orci posuere dictum vel et lacus. Nulla euismod lectus justoid euismod dolor fermentum eget. Suspendisse porttitor ipsum vel libero venenatis sit amet tincidunt magna venenatis. Pellentesque non leo ut ante malesuada tristique. Sed et tellus nunc.Praesent quis pellentesque elit, sed congue augue. Donec justo nunc, tempus at dui in, commodo sollicitudin diam. Duis a nibh consectetur, efficitur odio sit amet, blandit nulla. Pellentesque in risus nisi. Curabitur viverra congue velit, nec iaculis est suscipit id. Donec nisl leo euismod a libero eleifend, volutpat tempor mauris. Fusce ut mauris eleifend ultrices erat nec malesuada sapien.Nullam euismod arcu vel mi hendrerit laoreet. Etiam vel purus id metus ornare dictum. Donec leo mauris, consequat hendrerit vestibulum ut, feugiat sed enim. Sed libero arcu, fringilla vel tincidunt vel, pulvinar id nisi. Praesent sapien erat, pretium et porttitor at. ",
+      "author": "moinak",
+      "id": "1"
+    },
+    {
+      "title": "Sample blog ",
+      "body": "lorem ipsum blah blaheach top level property is seen as a resource and json server creates endpoints for us Lorem ipsum dolor sit amet consectetur adipiscing elit. Donec blandit suscipit accumsan. Curabitur ut libero euismod, hendrerit sapien non, tempus risus. Nunc at dui eget purus consequat euismod ac non sapien. Etiam sit amet nunc lobortis, dignissim eros quis iaculis massa. Mauris ac euismod mauris, in porttitor metus. Maecenas sed augue ligula. Nunc dictum nisi ac quam euismod eleifend. Nam condimentum orci sed orci posuere dictum vel et lacus. Nulla euismod lectus justoid euismod dolor fermentum eget. Suspendisse porttitor ipsum vel libero venenatis sit amet tincidunt magna venenatis. Pellentesque non leo ut ante malesuada tristique. Sed et tellus nunc.Praesent quis pellentesque elit, sed congue augue. Donec justo nunc, tempus at dui in, commodo sollicitudin diam. Duis a nibh consectetur, efficitur odio sit amet, blandit nulla. Pellentesque in risus nisi. Curabitur viverra congue velit, nec iaculis est suscipit id. Donec nisl leo euismod a libero eleifend, volutpat tempor mauris. Fusce ut mauris eleifend ultrices erat nec malesuada sapien.Nullam euismod arcu vel mi hendrerit laoreet. Etiam vel purus id metus ornare dictum. Donec leo mauris, consequat hendrerit vestibulum ut, feugiat sed enim. Sed libero arcu, fringilla vel tincidunt vel, pulvinar id nisi. Praesent sapien erat, pretium et porttitor at. ",
+      "author": "no",
+      "id": "2"
+    },
+    {
+      "title": "Welcome to Moinak's blog ",
+      "body": "testing each top level property is seen as a resource and json server creates endpoints for us Lorem ipsum dolor sit amet consectetur adipiscing elit. Donec blandit suscipit accumsan. Curabitur ut libero euismod, hendrerit sapien non, tempus risus. Nunc at dui eget purus consequat euismod ac non sapien. Etiam sit amet nunc lobortis, dignissim eros quis iaculis massa. Mauris ac euismod mauris, in porttitor metus. Maecenas sed augue ligula. Nunc dictum nisi ac quam euismod eleifend. Nam condimentum orci sed orci posuere dictum vel et lacus. Nulla euismod lectus justoid euismod dolor fermentum eget. Suspendisse porttitor ipsum vel libero venenatis sit amet tincidunt magna venenatis. Pellentesque non leo ut ante malesuada tristique. Sed et tellus nunc.Praesent quis pellentesque elit, sed congue augue. Donec justo nunc, tempus at dui in, commodo sollicitudin diam. Duis a nibh consectetur, efficitur odio sit amet, blandit nulla. Pellentesque in risus nisi. Curabitur viverra congue velit, nec iaculis est suscipit id. Donec nisl leo euismod a libero eleifend, volutpat tempor mauris. Fusce ut mauris eleifend ultrices erat nec malesuada sapien.Nullam euismod arcu vel mi hendrerit laoreet. Etiam vel purus id metus ornare dictum. Donec leo mauris, consequat hendrerit vestibulum ut, feugiat sed enim. Sed libero arcu, fringilla vel tincidunt vel, pulvinar id nisi. Praesent sapien erat, pretium et porttitor at. ",
+      "author": "moinak",
+      "id": "3"
+    },
+    {
+      "title": "Testing Post",
+      "author": "moinak",
+      "body": "Json-server automatically adds an unique id for us ",
+      "id": "acfuXXS"
+    },
+    {
+      "title": "useHistory hook",
+      "author": "yoshi",
+      "body": "useHistory is a very useful Hook in react",
+      "id": "fBQc_T5"
+    }
+  ]
+}
